@@ -9,8 +9,8 @@
 ![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 #
-# [CONSUMIENDO LA POKE API Y JSONPLACEHOLDER](https://github.com/)
+# CONSUMIENDO LA POKE API Y JSONPLACEHOLDER
 
 [![API.png](https://i.postimg.cc/nrt769j9/API.png)](https://postimg.cc/S2DJ9sGm)
 #
-[ABRIR PAGINA](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://pokenapi-jsonplaceholder.netlify.app/)
